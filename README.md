@@ -22,7 +22,7 @@
 
 
 [![youtube](https://img.shields.io/badge/YouTube-EB0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Me_mariart)
-[![instagram](https://img.shields.io/badge/Instagram-F5018E?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duda_vieiraa7/)
+[![instagram](https://img.shields.io/badge/Instagram-F5018E?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dudaa.vie/)
 [![discord](https://img.shields.io/badge/Discord-525DE0?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 <a href = "mailto:mariaeduardamoraesvieira71@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![linkedin](https://img.shields.io/badge/LinkedIn-0B5EB5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-moraes-vieira-a769a72a8/)
