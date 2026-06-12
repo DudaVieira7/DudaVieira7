@@ -1,8 +1,8 @@
 <h1 align="center"> Oiii! eu sou a Maria Eduarda Vieira</h1><br/>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DudaVieira7&show_icons=true&theme=midnight-purple"/>&nbsp;&nbsp;
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=DudaVieira7&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DudaVieira7&show_icons=true&theme=midnight-purple"/>&nbsp;&nbsp;
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=DudaVieira7&theme=midnight-purple"/>
 </p>
 
 <p align="center">
