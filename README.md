@@ -33,15 +33,15 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@Me_mariart">
-    <img src="https://img.shields.io/badge/YouTube-EB0000?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/YouTube-0D0D0D?style=for-the-badge&logo=youtube&logoColor=white">
   </a>&nbsp;&nbsp;
 
   <a href="https://www.instagram.com/dudaa.vie/">
-    <img src="https://img.shields.io/badge/Instagram-F5018E?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-020126?style=for-the-badge&logo=instagram&logoColor=white">
   </a>&nbsp;&nbsp;
 
   <a href="https://discord.com/channels/@me">
-    <img src="https://img.shields.io/badge/Discord-525DE0?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/Discord-020126?style=for-the-badge&logo=discord&logoColor=white">
   </a>&nbsp;&nbsp;
 
   <a href="mailto:mariaeduardamoraesvieira71@gmail.com">
@@ -49,10 +49,10 @@
   </a>&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/maria-eduarda-moraes-vieira-a769a72a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-123499?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-6863F2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</p>
 
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DudaVieira7/DudaVieira7/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DudaVieira7/DudaVieira7/output/pacman-contribution-graph.svg">
