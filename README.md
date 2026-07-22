@@ -34,7 +34,7 @@
 
 
 <p align="center">
-  <a href="https://www.youtube.com/@Me_mariart">
+  <a href="https://www.youtube.com/@DudaVieiraa">
     <img src="https://img.shields.io/badge/YouTube-0D0D0D?style=for-the-badge&logo=youtube&logoColor=white">
   </a>&nbsp;&nbsp;
 
