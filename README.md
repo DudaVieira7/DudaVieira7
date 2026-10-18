@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/Gmail-9E91C3?style=for-the-badge&logo=gmail&logoColor=white">
   </a>&nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/maria-eduarda-moraes-vieira-a769a72a8/">
+  <a href="https://www.linkedin.com/in/maria-eduarda-vieira-a769a72a8/?isSelfProfile=true">
     <img src="https://img.shields.io/badge/LinkedIn-6863F2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
